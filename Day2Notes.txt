@@ -1,0 +1,8 @@
+Topics to Discuss:
+
+GIT -> Overview
+
+Creating a repo and uploading files into repo -> GitHub UI
+
+GIT commands
+
